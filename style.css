@@ -1,0 +1,26 @@
+h1{
+    color: aqua;
+}
+
+.rtf{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-color: #393E46;
+  }
+  
+ 
